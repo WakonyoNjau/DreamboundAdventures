@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630179239831",
+    "project_id": "dreamboundadventures-ba329",
+    "storage_bucket": "dreamboundadventures-ba329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630179239831:android:672388005c8894644156d2",
+        "android_client_info": {
+          "package_name": "com.example.dreamboundadventures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKzx0kyj5uFHsouro_kNjOWHLG4pkZb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
